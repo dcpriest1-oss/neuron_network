@@ -1,0 +1,10 @@
+/.venv/
+__pycache__/
+*.py[cod]
+/.env
+/.env.*
+/data/raw/
+/data/processed/
+/results/*.pt
+/learning_tsu2024/
+/neural-networks-notes.md
